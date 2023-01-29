@@ -1,0 +1,13 @@
+.wrapper-input-calc {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  justify-content: center;
+}
+.input-calc {
+  border: 1px solid #ccc !important;
+  border-radius: 0.2em;
+  direction: rtl;
+  padding: 5px 10px;
+  width: 150px !important;
+}

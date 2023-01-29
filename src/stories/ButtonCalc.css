@@ -1,0 +1,29 @@
+.button-calc {
+  font-family: "Courier New", Courier, monospace;
+  cursor: pointer;
+  border: none;
+  border-radius: 0.3em;
+  font-weight: bold;
+  line-height: 1;
+  display: inline-block;
+}
+.button-calc--primary {
+  background-color: blueviolet;
+  color: white;
+}
+.button-calc--secondary {
+  background-color: rgb(226, 43, 43);
+  color: white;
+}
+.button-calc--small {
+  padding: 10px 14px;
+  font-size: 1.1rem;
+}
+.button-calc--medium {
+  padding: 11px 18px;
+  font-size: 1.2rem;
+}
+.button-calc--large {
+  padding: 12px 22px;
+  font-size: 1.3rem;
+}
